@@ -1,3 +1,3 @@
 # NTU_Journalism_TableOfContents
 這個我是用List groups寫，但我覺得兩側有點空
-如果你有想到可以用別的方法 歡迎直接改XD
+如果你有想到別的方法 歡迎直接改XD
